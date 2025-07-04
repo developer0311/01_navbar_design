@@ -22,5 +22,6 @@ This is a responsive and animated navigation bar built with HTML, CSS, Bootstrap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animated-navbar.git
+   git clone https://github.com/developer0311/01_navbar_design
    cd animated-navbar
+   ```

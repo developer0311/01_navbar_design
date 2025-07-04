@@ -164,3 +164,28 @@ nav ul li a:hover {
     padding: 0.2rem;
   }
 }
+
+
+/*-------------------------- FOOTER --------------------------*/
+
+footer i {
+  font-size: 1.5rem;
+  color: var(--body-text-color);
+  transition:  all 0.1s ease-in-out;
+}
+
+/* Hover Effect Only for Specific Icons */
+.list-unstyled li a:hover i.bxl-facebook-circle {
+  color: #1877f2; /* Facebook Blue */
+  transform: scale(1.2);
+}
+
+.list-unstyled li a:hover i.bxl-instagram-alt {
+  color: #e4405f; /* Instagram Pink */
+  transform: scale(1.2);
+}
+
+.list-unstyled li a:hover i.bxl-twitter {
+  color: #1da1f2; /* Twitter Blue */
+  transform: scale(1.2);
+}
