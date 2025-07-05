@@ -1,0 +1,11 @@
+@media only screen and (max-width: 900px) {
+  p,
+  a,
+  label,
+  input,
+  button,
+  textarea,
+  .form-control {
+    font-size: 0.8rem;
+  }
+}
